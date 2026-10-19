@@ -7,5 +7,3 @@ endring 4
 DO NOT DELETE
 
 endring 3
-
-endring 5
